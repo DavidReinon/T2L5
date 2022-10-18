@@ -3,5 +3,11 @@ cd /bin
 ls
 
 2.
+cd ..
 cd /tmp
 ls
+
+3.
+cd ..
+cd /etc
+ls -rd a*
