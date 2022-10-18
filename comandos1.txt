@@ -1,4 +1,7 @@
 1.
-
 cd /bin
+ls
+
+2.
+cd /tmp
 ls
