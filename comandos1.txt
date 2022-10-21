@@ -10,4 +10,7 @@ ls
 3.
 cd ..
 cd /etc
-ls -rd a*
+ls -rd t*
+
+4.
+ls  /edv/tty??
