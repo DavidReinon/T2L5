@@ -13,4 +13,7 @@ cd /etc
 ls -rd t*
 
 4.
-ls  /edv/tty??
+ls  /dev/tty??
+
+5.
+le /dev | grep ^t | grep [1234]
