@@ -1,0 +1,19 @@
+1.
+cd /bin
+ls
+
+2.
+cd ..
+cd /tmp
+ls
+
+3.
+cd ..
+cd /etc
+ls -rd t*
+
+4.
+ls  /dev/tty??
+
+5.
+le /dev | grep ^t | grep [1234]
